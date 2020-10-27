@@ -8,7 +8,7 @@
 - 💬  Ask me about: Where you should start learning about blockchain
 - 🍜  Discord: RobbieK#4452
 - 🍜  Twitter: [@Ro_bbieK](https://twitter.com/Ro_bbieK)
-- 🍜  LinkedIn:[Robbie](https://www.linkedin.com/in/robbie-k/)
+- 🍜  LinkedIn: [Robbie](https://www.linkedin.com/in/robbie-k/)
 
 - ☕  Fun fact: Nationally ranked within the SCAA 
 
