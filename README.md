@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Robbiekruszynski/robbiekruszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 Role: Associate Developer Relations Manager at ConsenSys
@@ -16,4 +14,4 @@
 
 
 - ⚡ Fun fact: Nationally ranked within the SCAA ☕
--->
+
