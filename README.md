@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 - 🔭 Role: Associate Developer Relations Manager at ConsenSys
 - 🛠 Learning: Rust // Python
