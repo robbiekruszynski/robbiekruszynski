@@ -7,7 +7,7 @@
 - 🔮  I’m looking for: Community Managers // Collaborates // Developers // Designers 
 - 💬  Ask me about: Where you should start learning about blockchain
 - 🍜  Discord: RobbieK#4452
-- 🍜  Twitter: @Ro_bbieK
+- 🍜  Twitter: [@Ro_bbieK](https://twitter.com/Ro_bbieK)
 - 🍜  LinkedIn: https://www.linkedin.com/in/robbie-k/
 
 - ☕  Fun fact: Nationally ranked within the SCAA 
