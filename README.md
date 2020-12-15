@@ -12,3 +12,6 @@
 
 - ☕  Fun fact: Nationally ranked within the SCAA 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robbiekruszynski)](https://github.com/anuraghazra/github-readme-stats)
+
+
