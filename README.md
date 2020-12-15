@@ -12,6 +12,6 @@
 
 - ☕  Fun fact: Nationally ranked within the SCAA 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robbiekruszynski&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robbiekruszynski&show_icons=true&theme=tokyonight)
 
 
