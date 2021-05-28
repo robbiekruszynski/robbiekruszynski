@@ -1,5 +1,5 @@
 
-- 🔭  Role: Associate Developer Relations Manager at ConsenSys
+- 🔭  Role: Associate Developer Relations Manager at ConsenSys lv II
 - 🛠  Learning: Rust // Python
 - 🤹‍ Familiar with: React // Solidity // FIGMA // PSMlv1
 - 🎯  Currently working on: [BUIDL](https://www.meetup.com/pro/BUIDL/) // [MetaMask](https://metamask.io/) // [Infura](https://infura.io//) // [ConsenSys Academy](https://learn.consensys.net/index)
