@@ -1,7 +1,7 @@
 
 - 🔭  Role: Associate Developer Relations Manager at ConsenSys lv II
 - 🛠  Learning: Rust // Python
-- 🤹‍ Familiar with: React // Solidity // FIGMA // PSMlv1
+- 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
 - 🎯  Currently working on: [BUIDL](https://www.meetup.com/pro/BUIDL/) // [Infura](https://infura.io//) // [ConsenSys Academy](https://learn.consensys.net/index)
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material 
 - 🔮  I’m looking for: Community Managers // Collaborates // Developers // Designers 
