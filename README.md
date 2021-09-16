@@ -1,5 +1,5 @@
 
-- 🔭  Role: Associate Developer Relations Manager at ConsenSys 
+- 🔭  Role: Developer Relations // Lead of the BUIDL network // Lead instructor for ConsenSys Academy
 - 🛠  Learning: Rust // Python
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
 - 🎯  Currently working with: [ConsenSys](https://consensys.net/) // [BUIDL](https://www.meetup.com/pro/BUIDL/) // [Infura](https://infura.io//) // [ConsenSys Academy](https://learn.consensys.net/index)
