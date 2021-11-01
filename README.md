@@ -1,5 +1,5 @@
 
-- 🔭  Role: Lead Developer Relations at Blockdaemon // Ex: Consensys DevRel Ex: Lead of the BUIDL network Ex: Lead instructor for ConsenSys Academy
+- 🔭  Role: Lead Developer Relations at Blockdaemon // Ex: Consensys DevRel, Ex: Lead of the BUIDL network, Ex: Lead instructor for ConsenSys Academy
 - 🛠  Learning: Rust // Python // Go 
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
 - 🎯  Currently working with: Blockdaemon supported Protocols 
