@@ -1,9 +1,9 @@
 
-- 🔭  Role: Lead Developer Relations at Blockdaemon // Ex: Consensys DevRel, Ex: Lead of the BUIDL network, Ex: Lead instructor for ConsenSys Academy
+- 🔭  Role: Lead Developer Relations at Blockdaemon // Ex: Consensys
 - 🛠  Learning: Rust // Python // Go 
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
-- 🎯  Currently working with: Blockdaemon supported Protocols 
-- 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 Learning material 
+- 🎯  Currently working with: Blockdaemon && Blockdaemon supported Protocols 
+- 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
 - 🔮  I’m looking for: Community Managers // Collaborates // Developers // Designers 
 - 💬  Ask me about: Where you should start learning about blockchain and node management
 - 🍜  Discord: RobbieK#4452
