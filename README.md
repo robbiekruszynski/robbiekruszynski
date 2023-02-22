@@ -1,5 +1,5 @@
 
-- 🔭  Role: Lead Developer Relations at Blockdaemon + Technical Manager // Alum: Consensys // Alum:BUIDLnetwork
+- 🔭  Role: Lead Developer Relations at Blockdaemon + Technical Manager // Alum: Consensys // Alum: BUIDLnetwork
 - 🛠  Learning: Rust
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
 - 🎯  Currently working with: Blockdaemon && Blockdaemon supported Protocols 
