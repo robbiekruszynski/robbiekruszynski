@@ -1,8 +1,7 @@
 
-- 🔭  Role: Lead Developer Relations at Blockdaemon + Technical Manager // Alum: Consensys // Alum: BUIDLnetwork
+- 🔭  Role: Alum: Lead Developer Relations at Blockdaemon  // Alum: Consensys // Alum: BUIDLnetwork
 - 🛠  Learning: Rust
-- 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1
-- 🎯  Currently working with: Blockdaemon && Blockdaemon supported Protocols 
+- 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1 
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
 - 🔮  I’m looking for: Community Managers // Collaborates // Developers
 - 💬  Ask me about: Where you should start learning about blockchain and node hosting considerations
