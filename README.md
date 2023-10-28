@@ -1,5 +1,5 @@
 
-- 🔭  Role: Alum: Lead Developer Relations at Blockdaemon  // Alum: Consensys // Alum: BUIDLnetwork
+- 🔭  Role: Alum: Lead DevRel Blockdaemon  // Alum: DevRel Consensys // Alum: BUIDLnetwork
 - 🛠  Learning: Rust
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes // PSMlv1 
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
