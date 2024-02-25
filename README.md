@@ -11,4 +11,3 @@
 - 🍜  LinkedIn: [Robbie](https://www.linkedin.com/in/robbie-k/)
 - ☕  Fun fact: Nationally ranked within the SCAA 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glitch)](https://github.com/robbiekruszynski/github-readme-stats)
