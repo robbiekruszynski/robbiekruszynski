@@ -1,6 +1,6 @@
 
-- 🔭  Role: Lead DevRel at Chronicle Labs
-- 🛠  Alum: Lead DevRel Blockdaemon, DevRel Consensys, BUIDLnetwork
+- 🔭  Role: Open 
+- 🛠  Alum: Lead DevRel Blockdaemon, DevRel Consensys, Chronicle Labs  BUIDLnetwork
 - 🤹‍  Familiar with: React // Solidity // UX design && prototypes
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
 - 🔮  I’m looking for: Community Managers // Collaborates // Developers
