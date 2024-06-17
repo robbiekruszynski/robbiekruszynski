@@ -9,6 +9,6 @@
 - 🍜  Telegram: ro_bbiek
 - 🍜  Twitter: [@Ro_bbieK](https://twitter.com/Ro_bbieK)
 - 🍜  LinkedIn: [Robbie](https://www.linkedin.com/in/robbie-k/)
-- 🍜  WebsiteL [Robbie]([https://www.linkedin.com/in/robbie-k/](https://robbiekruszynski.com/))
+- 🍜  Website: [Robbie](https://robbiekruszynski.com/)
 - ☕  Fun fact: Nationally ranked within the SCAA 
 
