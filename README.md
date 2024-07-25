@@ -1,5 +1,5 @@
 
-- 🔭  Role: Open 
+- 🔭  Role: Lead DevRel at ApeChain / ApeCoin
 - 🛠  Alum: Lead DevRel Blockdaemon, Consensys, Chronicle Labs, BUIDLnetwork
 - 🤹‍  Familiar with: React // Solidity // UX | UI design principles & prototypes
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
