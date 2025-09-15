@@ -1,5 +1,5 @@
 
-- 🔭  Role: Lead DevRel at [ETHGas](https://www.ethgas.com/) & [Intuition Systems](https://www.intuition.systems/) 
+- 🔭  Role: Lead DevRel at [ETHGas](https://www.ethgas.com/) 
 - 🛠  Alum: Lead DevRel at: [ApeChain](https://apechain.com/), [Blockdaemon](https://www.blockdaemon.com/), [Consensys](https://consensys.io/blog), [Chronicle Labs](https://chroniclelabs.org/)
 - 🤹‍  Familiar with: React // Solidity // UX | UI design principles & prototypes
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
