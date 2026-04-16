@@ -1,6 +1,6 @@
 
-- 🔭  Role: Lead DevRel at [ETHGas](https://www.ethgas.com/) 
-- 🛠  Alum: Lead DevRel at: [ApeChain](https://apechain.com/), [Blockdaemon](https://www.blockdaemon.com/), [Consensys](https://consensys.io/blog), [Chronicle Labs](https://chroniclelabs.org/)
+- 🔭  Role: OPEN
+- 🛠  Alum: Lead DevRel at: [ApeChain](https://apechain.com/), [Blockdaemon](https://www.blockdaemon.com/), [Consensys](https://consensys.io/blog), [Chronicle Labs](https://chroniclelabs.org/), [ETHGas](https://www.ethgas.com/) 
 - 🤹‍  Familiar with: React // Solidity // UX | UI design principles & prototypes
 - 🏓  I’m looking to collaborate on: Ecosystem Growth Engines // Web3 learning material 
 - 🔮  I’m looking for: Collaborators // Developers
